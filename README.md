@@ -47,3 +47,7 @@ These clocks offer a comprehensive approach to understanding biological aging, r
 - The pipeline outputs biological age acceleration estimates and associations with phenotype data for downstream analysis.
 - Clear documentation and instructions are provided for applying the scripts to future datasets, ensuring the pipeline is adaptable for continued use by the client.
 
+### References:
+- Belsky DW, Caspi A, Corcoran DL, et al. DunedinPACE, a DNA methylation biomarker of the pace of aging. Elife. 2022;11:e73420. Published 2022 Jan 14. doi:10.7554/eLife.73420
+- Bernabeu, E., McCartney, D.L., Gadd, D.A. et al. Refining epigenetic prediction of chronological and biological age. Genome Med 15, 12 (2023). https://doi.org/10.1186/s13073-023-01161-y
+- Duan R, Fu Q, Sun Y, Li Q. Epigenetic clock: A promising biomarker and practical tool in aging. Ageing Res Rev. 2022;81:101743. doi:10.1016/j.arr.2022.101743
