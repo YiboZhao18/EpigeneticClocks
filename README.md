@@ -41,6 +41,7 @@ These clocks offer a comprehensive approach to understanding biological aging, r
 - Using the imputed sample dataset (with rows representing CpG sites and columns as sample IDs), I wrote R scripts to implement each of the six clocks. (For the classical clocks, namely Horvath, Hannum, PhenoAge and GrimAge, I found an online calculator developed by the clock's author: https://dnamage.clockfoundation.org/. Therefore, for these 4 clocks the script is just to prepare the input files).
 - Each script applies the specific algorithm of the chosen clocks to calculate biological age estimates for each sample.
 - These scripts are designed to be flexible, allowing the client to adapt them to their real dataset with minimal adjustments.
+- I also added a script to assess the correlation between chronological age and epigenetic age estimates
 
 ### 3. Output
 
